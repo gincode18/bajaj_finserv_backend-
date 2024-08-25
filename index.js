@@ -17,7 +17,7 @@ app.get('/bfhl', (req, res) => {
 // POST endpoint
 app.post('/bfhl', (req, res) => {
     const { data } = req.body;
-    const fullName = "vishal_16062002";
+    const fullName = "vishal";
     const dob = "16062002"; 
     const email = "vishal.2021b@vitstudent.ac.in";
     const rollNumber = "21BCI0246";
